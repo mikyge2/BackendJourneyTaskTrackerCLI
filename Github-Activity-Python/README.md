@@ -15,4 +15,4 @@ This Python script fetches recent activities of a GitHub user using the GitHub E
 
 ## Usage
 ```bash
-./fetch_user_activity.py <github_username>
+./github-activity.py <github_username>
